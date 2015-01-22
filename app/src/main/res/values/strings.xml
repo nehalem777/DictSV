@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">DictSV</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="inputSearch">กรุณาค้นหา...</string>
+    <string name="Search">Favorite</string>
+    <string name="Edit">EditFrag</string>
+    <string name="Cat_btn">หมวด</string>
+    <string name="btn_save_cat">บันทึก</string>
+    <string name="btn_cls_cat">ล้างข้อมูล</string>
+    <string name="tv_cat">หมวดหมู่</string>
+    <string name="add_tv_cat">เพิ่มหมวดหมู่</string>
+    <string name="tv_vocab">ศัพท์</string>
+    <string name="tv_vocabb">ศัพท์บัญญัติ</string>
+    <string name="tv_vocabbb">คำทับศัพท์</string>
+    <string name="tv_vocab_cate">หมวดหมู่</string>
+    <string name="btn_save_vocab">บันทึก</string>
+    <string name="btn_cls_vocab">ล้างข้อมูล</string>
+    <string name="hint_vocab">เพิ่มหรือแก้ไขคำศัพท์</string>
+    <string name="hint_vocabb">เพิ่มหรือแก้ไขศัพท์บัญญัติ</string>
+    <string name="hint_vacabbb">เพิ่มหรือแก้ไขคำทับศัพท์</string>
+    <string name="hint_cate">เพิ่มหรือแก้ไขหมวดหมู่</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_te">te</string>
+    <string name="title_activity_my_activity2">MyActivity2</string>
+
+</resources>

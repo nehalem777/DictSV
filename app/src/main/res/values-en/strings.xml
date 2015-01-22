@@ -1,0 +1,22 @@
+<resources>
+
+    <string name="Cat_btn">Category</string>
+    <string name="inputSearch">Search...</string>
+    <string name="hint_vocab">Add or Edit Word</string>
+    <string name="title_activity_main"></string>
+    <string name="add_tv_cat">Add Categories</string>
+    <string name="app_name">DistSV</string>
+    <string name="btn_cls_cat">Clear</string>
+    <string name="btn_cls_vocab">Clear</string>
+    <string name="btn_save_cat">Save</string>
+    <string name="btn_save_vocab">Save</string>
+    <string name="hello_world">Helloworld</string>
+    <string name="hint_cate">Add or Edit Categories</string>
+    <string name="hint_vacabbb">Add or Edit Termer</string>
+    <string name="hint_vocabb">Add or Edit XXX</string>
+    <string name="tv_cat">Categories</string>
+    <string name="tv_vocab">Words</string>
+    <string name="tv_vocab_cate">Categories</string>
+
+
+</resources>
